@@ -6,7 +6,22 @@
 
     <groupId>com.yaauie</groupId>
     <artifactId>unfurl</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
+    <name>UnfURL</name>
+    <description>Url-expansion</description>
+    <url>https://github.com/yaauie/unfurl</url>
+
+    <scm>
+        <url>https://github.com/yaauie/unfurl</url>
+    </scm>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
 
     <dependencies>
         <dependency>
