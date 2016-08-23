@@ -1,5 +1,8 @@
 # UnfURL
 
+[![Build Status](https://travis-ci.org/yaauie/unfurl.svg?branch=master)](https://travis-ci.org/yaauie/unfurl)
+[![Release](https://jitpack.io/v/yaauie/unfurl.svg)](https://jitpack.io/#yaauie/unfurl)
+
 `UnfURL` is a library offering straight-forward URL expansion in Java;
 it is a thin wrapper of Apache's `HttpClient`.
 
